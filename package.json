@@ -16,6 +16,9 @@
     "type": "git",
     "url": "git@github.com:hugzh/generator-simple-dir.git"
   },
+  "bugs": {
+    "url": "https://github.com/hugzh/generator-simple-dir/issues"
+  },
   "dependencies": {
     "glob": "^7.1.0",
     "mkdirp": "^0.5.1",
