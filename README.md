@@ -18,3 +18,11 @@
     |__ js
     |__ image
 ```
+
+## 安装方法
+```
+$ npm install generator-simple-dir
+```
+
+## License
+MIT
